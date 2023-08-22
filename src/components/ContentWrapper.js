@@ -1,8 +1,9 @@
 import React from 'react'
 import Photo from './Photo'
 
-function ContentWrapper() {
 
+function ContentWrapper() {
+  
     return (
         <div className="ContentWrapper" style={{'backgroundColor': 'white'}}>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac sollicitudin lorem. Sed porta placerat felis, sit amet commodo justo ultricies quis. Morbi pretium massa quam, id tincidunt orci scelerisque ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut eleifend, nisi sit amet faucibus aliquet, quam sem feugiat ante, sit amet dignissim orci est at risus. Sed tincidunt, lorem eget laoreet egestas, felis nisi tristique arcu, sed suscipit diam risus auctor arcu. Cras sit amet nunc tellus. Duis aliquet convallis lectus, ut pulvinar tellus ultrices id. Sed eu malesuada augue. Nullam auctor eget sem eu vestibulum. Morbi sit amet maximus tellus.</p>
